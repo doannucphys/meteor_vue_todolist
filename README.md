@@ -24,7 +24,7 @@ Demo of reactive todo list using Meteorjs + Vuejs + mongoldb
     - or, build code to nodejs code then deploy it on AWS
 
 Attention!, the code with meteorjs is quite heavy, so, it run quickly on MacBook Pro, but on macbook Air it's litle bit slow, 
-and on Window, very very slow (new things are not design for old marchine! ) .
+and on Window, very very slow (new things are not design for old marchine! ).
 
 enjoy!
 

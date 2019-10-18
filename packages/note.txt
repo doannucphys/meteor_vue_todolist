@@ -1,1 +1,2 @@
-clone meteor packages and put here
+clone meteor packages and put here. 
+This will be neccesary when you copy (folk) packages from meteor host and modify it
