@@ -29,14 +29,18 @@ Doan Quang Tuyen.
 Screen capture of demo:
 -----------------------------
 
-Layout: 
-![image info](./docs/screencapture/layout.png =400x)
+Layout:
+
+<img src="./docs/screencapture/layout.png" width="400">
 
 Add new task:
-![image info](./docs/screencapture/add.png =400)
+
+<img src="./docs/screencapture/add.png" width="400">
 
 Edit: 
-![image info](./docs/screencapture/edit.png =400x)
+
+<img src="./docs/screencapture/edit.png" width="400">
 
 Show deadline in real time: 
-![image info](./docs/screencapture/deadline.png =400x)
+
+<img src="./docs/screencapture/deadline.png" width="400">
