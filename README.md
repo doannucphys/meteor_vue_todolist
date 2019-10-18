@@ -29,5 +29,14 @@ Doan Quang Tuyen.
 Screen capture of demo:
 -----------------------------
 
+Layout: 
+![image info](./docs/screencapture/layout.png =400x)
 
-![image info](./docs/screencapture/add.png)
+Add new task:
+![image info](./docs/screencapture/add.png =400)
+
+Edit: 
+![image info](./docs/screencapture/edit.png =400x)
+
+Show deadline in real time: 
+![image info](./docs/screencapture/deadline.png =400x)
