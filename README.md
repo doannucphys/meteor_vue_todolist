@@ -1,6 +1,6 @@
 @ -0,0 +1,2 @@
 # meteor_vue_todolist
-demo of reactive todo list using Meteorjs + Vuejs + mongoldb
+Demo of reactive todo list using Meteorjs + Vuejs + mongoldb
 
 1. Install meteorjs:
     curl https://install.meteor.com/ | sh
@@ -17,6 +17,11 @@ demo of reactive todo list using Meteorjs + Vuejs + mongoldb
     meteor npm run start
 
 4. go to localhost:3000 to display web.
+
+5. Deploy: 
+    - you need to create database on host
+    - Using meteor deploy to deploy code to galaxy (see guide on meteor.com)
+    - or, build code to nodejs code then deploy it on AWS
 
 Attention!, the code with meteorjs is quite heavy, so, it run quickly on MacBook Pro, but on macbook Air it's litle bit slow, 
 and on Window, very very slow (new things are not design for old marchine! ) .
