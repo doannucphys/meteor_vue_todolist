@@ -30,7 +30,7 @@ Screen capture of demo:
 -----------------------------
 
 Layout: 
-![image info](./docs/screencapture/layout.png =400x)
+![image info](./docs/screencapture/layout.png =400)
 
 Add new task:
 ![image info](./docs/screencapture/add.png =400)
