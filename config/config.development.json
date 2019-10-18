@@ -1,0 +1,8 @@
+{
+    "public": {
+        "param1": "put some value here to use on client side"
+    },
+    "private": {
+        "param2": "put some value here to use on server side"
+    }
+}
