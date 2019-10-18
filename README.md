@@ -25,3 +25,9 @@ enjoy!
 
 Doan Quang Tuyen.
 
+
+Screen capture of demo:
+-----------------------------
+
+
+![image info](./docs/screencapture/add.png)
