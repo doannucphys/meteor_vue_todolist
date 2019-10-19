@@ -9,7 +9,7 @@
         <task-item :isHead="true"/>
 
         <div v-for="(task, idx) in tasks" :key="idx">
-          <task-item :taskData="task" :id="idx" :name="'task-item' + idx" @overDeadline="overDeadline(task._id)"/>
+          <task-item :taskData="task" :id="task._id" :name="'task-item' + task._id" @overDeadline="overDeadline(task._id)"/>
         </div>
     
         <b-row v-if="isShowInput">

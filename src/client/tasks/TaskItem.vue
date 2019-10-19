@@ -5,7 +5,7 @@
 
       <b-col cols="12" md="3">
         <span v-if="!isShowEdit">{{taskData.task}}</span>
-         <b-textarea v-if="isShowEdit" :id="'Input'" :type="'text'"
+         <b-textarea v-if="isShowEdit" :id="'Input' + taskData._id" :type="'text'"
           placeholder="modify task"
           v-model="taskEdit">
         </b-textarea>
@@ -17,6 +17,7 @@
           v-if="isShowEdit" 
           type="datetime" 
           class="date-input" 
+          :id="'editTime' + taskData._id"
           v-model="taskDeadline" 
           format="yyyy-MM-dd HH:mm:ss"/>
       </b-col>
