@@ -26,7 +26,7 @@ Alert when deadline come up. If page is not open, when user open, show alert if 
     - or, build code to nodejs code then deploy it on AWS<br/>
 
 Attention!, the code with meteorjs is quite heavy, so, it run quickly on MacBook Pro, but on macbook Air it's litle bit slow, 
-and on Window, very very slow (new things are not design for old marchine! ).
+and on Window, very very slow (new things are not design for old machine! ).
 
 enjoy!
 
