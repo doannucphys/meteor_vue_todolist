@@ -1,6 +1,6 @@
 @ -0,0 +1,2 @@
 # meteor_vue_todolist
-Demo of reactive todo list using Meteorjs + Vuejs + mongoldb<br/>
+Demo of reactive todo list using Meteorjs + Vuejs + mongodb<br/>
 Alert when deadline come up. If page is not open, when user open, show alert if deadline is in current and previous day.
 
 1. Install meteorjs:<br/>
